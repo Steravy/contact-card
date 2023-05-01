@@ -10,7 +10,8 @@
 }
 
 body {
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Comfortaa', cursive;
     background-color: #F6F6F6;
     padding: 1.5rem;
 
@@ -53,11 +54,13 @@ main {
 .personal-info h1 {
     color: #555;
     font-size: 1.8rem;
+    font-family: 'Comfortaa', cursive;
     letter-spacing: 2px;
     font-weight: 300;
 }
 
 .personal-info h2 {
+    margin-top: .8rem;
     color: #848484;
     font-size: 1.4rem;
     letter-spacing: 2px;
@@ -128,8 +131,8 @@ main {
 }
 
 .social-links-icons {
-    color: #555;
-    font-size: 1.8rem;
+    color: #000;
+    font-size: 2rem;
 }
 
 .author-info-container {
