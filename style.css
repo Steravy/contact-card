@@ -53,12 +53,14 @@ main {
 .personal-info h1 {
     color: #555;
     font-size: 1.8rem;
+    letter-spacing: 2px;
     font-weight: 300;
 }
 
 .personal-info h2 {
     color: #848484;
     font-size: 1.4rem;
+    letter-spacing: 2px;
     font-weight: 300;
 }
 
